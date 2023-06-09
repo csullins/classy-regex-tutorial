@@ -147,5 +147,5 @@ That will capture Google and test separately
 
 ## Author
 
-This Gist was create by Camile Sullins with the aid of The Coding Train tutorials (https://www.youtube.com/watch?v=7DG3kCDx53c). <br>
+This Gist was created by Camile Sullins with the aid of The Coding Train tutorials (https://www.youtube.com/watch?v=7DG3kCDx53c). <br>
 Camile's Github: github.com/csullins
